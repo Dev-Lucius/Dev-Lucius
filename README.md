@@ -15,7 +15,6 @@
 
 <div align="left">
   <img src="https://github.com/Dev-Lucius/Dev-Lucius/blob/main/avatar_github.png?raw=true" height="160" width="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&layout=compact&langs_count=6&theme=dracula" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Lucius&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </div>
 
