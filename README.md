@@ -37,19 +37,6 @@ Git • REST APIs • OOP • MVC • Data Modeling • Linux
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Project Name 1**  
-Short and objective description focusing on impact and technical decisions.
-
-🔹 **Project Name 2**  
-Description highlighting architecture, stack and challenges solved.
-
-🔹 **Project Name 3**  
-Focus on problem-solving and scalability aspects.
-
----
-
 ## 📊 GitHub Analytics
 
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
