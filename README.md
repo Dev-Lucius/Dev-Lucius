@@ -24,7 +24,7 @@ I believe in clean code, solid fundamentals and continuous improvement.
 ## 🛠 Tech Stack
 
 ### Languages
-Java • Python • JavaScript • C
+Java • Python • JavaScript 
 
 ### Web Development
 HTML • CSS • React • Node.js • Vite • TailwindCSS
