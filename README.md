@@ -39,8 +39,7 @@ Git • REST APIs • OOP • MVC • Data Modeling • Linux
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
+![](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&showicons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
