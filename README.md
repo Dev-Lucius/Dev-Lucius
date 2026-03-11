@@ -17,7 +17,7 @@ My main areas of interest include:
 - Databases & Data Modeling
 - Software Architecture
 
-I believe in **clean code, strong fundamentals and continuous learning**.
+> I believe in **clean code, strong fundamentals and continuous learning**.
 
 ---
 
@@ -46,9 +46,8 @@ Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dev-Lucius&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Dev-Lucius&theme=shadow_blue&hide_border=false)
 
 ---
 
@@ -64,6 +63,8 @@ Here are some projects that represent my learning journey:
 
 - 🧠 **Algorithms Practice**  
   Repository focused on data structures and algorithms.
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
