@@ -72,7 +72,7 @@ Here are some projects that represent my learning journey:
 
 💼 [LinkedIn](https://linkedin.com/in/lucasolisantos)  
 
-📷 [Instagram](https://instagram.com/lucius001_)
+📷 [Instagram](https://instagram.com/luciuss001_)
 
 ---
 
