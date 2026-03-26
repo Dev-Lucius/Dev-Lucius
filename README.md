@@ -49,7 +49,7 @@ Git • Linux • REST APIs • OOP • MVC • Data Modeling
 ![](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Dev-Lucius&theme=shadow_blue&hide_border=false)
 
----
+---nicia em 12/03/2026 às 19h 0 e finaliza em 12/03/2026 às 23h 59
 
 ## 📌 Featured Projects
 
@@ -70,9 +70,9 @@ Here are some projects that represent my learning journey:
 
 ## 🌐 Connect with Me
 
-💼 LinkedIn[https://linkedin.com/in/lucasolisantos]  
+💼 [LinkedIn](https://linkedin.com/in/lucasolisantos)  
 
-📷 Instagram[https://instagram.com/lucius001_]
+📷 [Instagram](https://instagram.com/lucius001_)
 
 ---
 
