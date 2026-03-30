@@ -3,11 +3,13 @@
 Software Engineering Student | Backend & Web Development  
 Brazil 🇧🇷
 
+![](https://komarev.com/ghpvc/?username=Dev-Lucius&color=blue)
+
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student passionate about building **scalable, efficient and well-structured systems**.
+I am a Software Engineering student passionate about building **scalable and well-structured systems**.
 
 My main areas of interest include:
 
@@ -17,7 +19,9 @@ My main areas of interest include:
 - Databases & Data Modeling
 - Software Architecture
 
-> I believe in **clean code, strong fundamentals and continuous learning**.
+I focus on writing **clean, maintainable code** and continuously improving my engineering skills.
+
+> *"Strong fundamentals build scalable systems."*
 
 ---
 
@@ -39,6 +43,9 @@ My main areas of interest include:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ### Tools
 Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
@@ -46,38 +53,41 @@ Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
 ## 📊 GitHub Stats
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Lucius&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Lucius&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-Lucius&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-Here are some projects that represent my learning journey:
-
-- 📦 **Database Implementation**  
-  SQL modeling, normalization and database programming.
-
-- 🚀 **Fluxora (SaaS Project)**  
-  Workflow and productivity management platform.
-
-- 🧠 **Algorithms Practice**  
-  Repository focused on data structures and algorithms.
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🔹 **Fluxora (SaaS Project)**  
+Workflow and productivity management platform focused on improving task organization and productivity.  
+Tech: Node.js • React • PostgreSQL  
+[Repository](https://github.com/Dev-Lucius/fluxora)
 
 ---
 
-## 🌐 Connect with Me
-
-💼 [LinkedIn](https://linkedin.com/in/lucasolisantos)  
-
-📷 [Instagram](https://instagram.com/luciuss001_)
+🔹 **Database Modeling Project**  
+Relational database design project including normalization, SQL queries and relational modeling.  
+Tech: PostgreSQL • SQL  
+[Repository](https://github.com/Dev-Lucius)
 
 ---
 
-> *“Strong fundamentals build scalable systems.”*
+🔹 **Algorithms & Data Structures**  
+Repository dedicated to practicing data structures, algorithms and problem solving.  
+Tech: Java • Python  
+[Repository](https://github.com/Dev-Lucius)
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn  
+https://linkedin.com/in/lucasolisantos  
+
+📷 Instagram  
+https://instagram.com/luciuss001_
+
+---
