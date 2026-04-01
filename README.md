@@ -43,9 +43,6 @@ I focus on writing **clean, maintainable code** and continuously improving my en
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
 ### Tools
 Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
