@@ -81,10 +81,8 @@ Tech: Java • Python
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn  
-https://linkedin.com/in/lucasolisantos  
+💼 [LinkedIn](https://linkedin.com/in/lucasolisantos  ) 
 
-📷 Instagram  
-https://instagram.com/luciuss001_
+📷 [Instagram](https://instagram.com/luccius001)  
 
 ---
