@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Quote.jpg" width="100%" height="100%">
-</p>
-
 # Lucas Oliveira
 
 Software Engineering Student | Backend & Web Development  
