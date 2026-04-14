@@ -56,29 +56,6 @@ Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Fluxora (SaaS Project)**  
-Workflow and productivity management platform focused on improving task organization and productivity.  
-Tech: Node.js • React • PostgreSQL  
-[Repository](https://github.com/Dev-Lucius/fluxora)
-
----
-
-🔹 **Database Modeling Project**  
-Relational database design project including normalization, SQL queries and relational modeling.  
-Tech: PostgreSQL • SQL  
-[Repository](https://github.com/Dev-Lucius)
-
----
-
-🔹 **Algorithms & Data Structures**  
-Repository dedicated to practicing data structures, algorithms and problem solving.  
-Tech: Java • Python  
-[Repository](https://github.com/Dev-Lucius)
-
----
-
 ## 🌐 Connect With Me
 
 💼 [LinkedIn](https://linkedin.com/in/lucasolisantos  ) 
