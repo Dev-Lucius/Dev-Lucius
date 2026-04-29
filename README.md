@@ -1,9 +1,6 @@
 # Lucas Oliveira
 
-Software Engineering Student | Backend & Web Development  
-Brazil 🇧🇷
-
-![](https://komarev.com/ghpvc/?username=Dev-Lucius&color=blue)
+Software Engineering Student | Backend & Web Development | Brazil 🇧🇷 
 
 ---
 
@@ -22,6 +19,8 @@ My main areas of interest include:
 I focus on writing **clean, maintainable code** and continuously improving my engineering skills.
 
 > *"Strong fundamentals build scalable systems."*
+
+<p align="left"> <img src="https://streak-stats.demolab.com?user=Dev-Lucius&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
@@ -50,16 +49,21 @@ Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-Lucius&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Lucius&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact
 
-💼 [LinkedIn](https://linkedin.com/in/lucasolisantos  ) 
+Feel free to connect or reach out:
 
-📷 [Instagram](https://instagram.com/luccius001)  
+- 💼 [LinkedIn](https://linkedin.com/in/lucasolisantos) 
+- 📷 [Instagram](https://instagram.com/luccius001)
+    
 
----
