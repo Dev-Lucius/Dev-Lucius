@@ -47,18 +47,6 @@ Git • Linux • REST APIs • OOP • MVC • Data Modeling
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Lucius&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Lucius&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contact
 
 Feel free to connect or reach out:
