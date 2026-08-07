@@ -46,8 +46,6 @@ Software Engineering student passionate about building **scalable and well-struc
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Lucius/Dev-Lucius/output/github-contribution-grid-snake-dark.svg" />
