@@ -1,57 +1,61 @@
-# Lucas Oliveira
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:333399,100:00ffcc&height=220&section=header&text=Lucas%20Oliveira&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff00cc&center=true&vCenter=true&width=500&lines=Backend+Developer;Software+Engineering+Student;Clean+Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
-Software Engineering Student | Backend & Web Development | Brazil 🇧🇷 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Lucius&color=ff00cc&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student passionate about building **scalable and well-structured systems**.
+Software Engineering student passionate about building **scalable and well-structured systems**.
 
-My main areas of interest include:
-
-- Backend Development
-- Data Structures & Algorithms
-- System Design
-- Databases & Data Modeling
-- Software Architecture
-
-I focus on writing **clean, maintainable code** and continuously improving my engineering skills.
+- 🔭 Currently focused on **Backend Development** & **System Design**
+- 🌱 Learning **Cloud Architecture** and **Microservices**
+- 💡 Believer in **clean code, solid principles, and continuous improvement**
+- 🎯 Goal: Build systems that are **maintainable, testable, and scalable**
 
 > *"Strong fundamentals build scalable systems."*
 
-<p align="left"> <img src="https://streak-stats.demolab.com?user=Dev-Lucius&theme=tokyonight&hide_border=true"/> </p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-Lucius&theme=radical&hide_border=true"/>
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+| **Backend** | **Frontend** | **Database** | **DevOps & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | | |
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-Git • Linux • REST APIs • OOP • MVC • Data Modeling
+</div>
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-Feel free to connect or reach out:
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasolisantos)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luccius001)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-- 💼 [LinkedIn](https://linkedin.com/in/lucasolisantos) 
-- 📷 [Instagram](https://instagram.com/luccius001)
-    
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:333399,100:00ffcc&height=100&section=footer" />
+</div>
