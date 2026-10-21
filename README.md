@@ -10,20 +10,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Software Engineering student passionate about building **scalable and well-structured systems**.
 
-- 🔭 Currently focused on **Backend Development** & **System Design**
-- 🌱 Learning **Cloud Architecture** and **Microservices**
-- 💡 Believer in **clean code, solid principles, and continuous improvement**
-- 🎯 Goal: Build systems that are **maintainable, testable, and scalable**
+- Currently focused on **Backend Development** & **System Design**
+- Learning **Cloud Architecture** and **Microservices**
+- Believer in **clean code, solid principles, and continuous improvement**
+- Goal: Build systems that are **maintainable, testable, and scalable**
 
 > *"Strong fundamentals build scalable systems."*
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dev-Lucius&theme=radical&hide_border=true"/>
@@ -31,7 +31,7 @@ Software Engineering student passionate about building **scalable and well-struc
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
